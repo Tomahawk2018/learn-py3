@@ -1,0 +1,8 @@
+#print("Hello World!")
+print("Hello Aagin",end="")
+print("I like typing this.",end="")
+print("This is fun.",end="")
+print("Yay! Printing",end="")
+print("I'd much rather you 'not'.",end="")
+print('I "said" do not touch this',end="")
+print('再打印一遍',end="")
